@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835428868532",
+    "firebase_url": "https://phonegap-pushbots.firebaseio.com",
+    "project_id": "phonegap-pushbots",
+    "storage_bucket": "phonegap-pushbots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835428868532:android:4c324d9261f5166d7792e1",
+        "android_client_info": {
+          "package_name": "org.pushnotification.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835428868532-07hemg2rtc5ipf3i28kdjutrr63ledv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthR1yD5Ad8CqvDTo8A0cak3H8Mndq66A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835428868532-07hemg2rtc5ipf3i28kdjutrr63ledv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
